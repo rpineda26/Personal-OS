@@ -9,7 +9,7 @@
 
 .section .text
 .extern kernelMain
-.exttern callConstructors
+.extern callConstructors
 .global loader
 
 loader:
